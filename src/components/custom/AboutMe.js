@@ -1,5 +1,6 @@
 import React from 'react';
-import { View, Text } from 'react-native'; // TODO: replace Text with ui/Text after export
+import { View } from 'react-native';
+import { Text } from '../ui';
 import { styles } from '../../styles/styles';
 
 /**
